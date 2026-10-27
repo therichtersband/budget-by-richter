@@ -4,7 +4,7 @@ A budget app for your iPhone Home Screen. Six setup questions on first open (pay
 
 Everything people enter stays on their own phone. No account, no server, no bank login.
 
-Live: https://moneybyrichter.therichtersband.com/
+Live: https://therichtersband.github.io/budget-by-richter/ (moving to moneybyrichter.therichtersband.com once DNS is set)
 
 ## Share it
 
